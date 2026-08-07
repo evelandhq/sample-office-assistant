@@ -13,11 +13,12 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@ai-sdk/deepseek": "^3.0.7",
-    "@vercel/connect": "^0.3.0",
-    "ai": "^7",
-    "ai-sdk-ollama": "^4.0.0",
-    "eve": "^0.26.0",
+    "@ai-sdk/deepseek": "^3.0.24",
+    "@vercel/connect": "^0.6.1",
+    "ai": "^7.0.56",
+    "ai-sdk-ollama": "^4.1.0",
+    "eve": "^0.31.1",
+    "eveland": "^0.3.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {
